@@ -1,0 +1,3 @@
+/Users/tsy/Vscode/cppFolder/opencvFolder/CMakeFiles/main.dir
+/Users/tsy/Vscode/cppFolder/opencvFolder/CMakeFiles/edit_cache.dir
+/Users/tsy/Vscode/cppFolder/opencvFolder/CMakeFiles/rebuild_cache.dir
